@@ -1,0 +1,15 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "defaultPrefix": "&",
+  "ownerID": "YOUR_OWNER_ID",
+  "reportChannelID": "YOUR_REPORT_CHANNEL_ID",
+  "mongoURI": "YOUR_MONGO_URI",
+  "supportServer": "YOUR_SUPPORT_SERVER_LINK",
+
+  "credits": {
+    "owner": "Paradox 🥏",
+    "developers": ["~ Dray !!", "Deepjoyti"],
+    "supportTeam": ["!HellFire"]
+    "supportServer": "https://discord.gg/DJxHfWGyr9",
+  }
+}
